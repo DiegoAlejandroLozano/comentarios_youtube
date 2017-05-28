@@ -8,9 +8,9 @@
 	{
 		
 		const host = "localhost";
-		const usuario = "root";
-		const clave = "diego123";
-		const bd = "comentarios_youtube"; 
+		const usuario = "tu_usuario";
+		const clave = "tu_clave";
+		const bd = "tu_base_datos"; 
 
 		function conectar_bd(){
 
